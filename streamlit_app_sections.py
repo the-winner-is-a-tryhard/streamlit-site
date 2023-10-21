@@ -12,8 +12,6 @@ with st.echo('below'):
 			Page('data_blog/points_against_blog.py', 'Points Against Analysis'),
 			Section(name='2022 Power Rankings', icon=':trophy:'),
 			Page('power_rankings/2022/week_one.py'),
-			Section(name='2021 Power Rankings', icon=':trophy:'),
-			Page('power_rankings/2021/week_one.py')
 		]
 	)
 
